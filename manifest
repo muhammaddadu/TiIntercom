@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.3
+version: 0.4
 apiversion: 2
 description: Titanium module for the Intercom iOS SDK
 author: Simon Rand
@@ -15,4 +15,4 @@ name: TiIntercom
 moduleid: ti.intercom
 guid: a66b3b9a-7d87-44c5-a04e-d10d05a9f7d2
 platform: iphone
-minsdk: 3.2.0.GA
+minsdk: 5.0.2.GA
